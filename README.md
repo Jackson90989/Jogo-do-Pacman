@@ -11,7 +11,7 @@ Este projeto é uma implementação do clássico **Pac-Man** em **Node.js + Reac
 
 ---
 
-## ⚙️ Instalação
+## Instalação
 
 Clone o repositório:
 
